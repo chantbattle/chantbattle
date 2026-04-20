@@ -36,6 +36,8 @@ Representative Director, RePUF Co., Ltd.
 Chief Priest, Shojoji (正定寺) Temple, Rinzai-Myoshinji branch
 Saiki Kakujo High School, Class of 2004 (56th graduating class)
 
+ORCID: [0009-0003-4251-4624](https://orcid.org/0009-0003-4251-4624)
+
 ---
 
 ## Academic Collaborations
