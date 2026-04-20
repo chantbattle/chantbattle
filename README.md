@@ -15,10 +15,10 @@ An educational card deck based on the Ogura Hyakunin Isshu (100 classical Japane
 A trading card game rooted in classical Japanese waka poetry, structured around five realms each governed by a different "emotion-as-physics" system.
 → [chantbattle.com](https://chantbattle.com)
 
-### 🔬 Silver Halide PUF *(Long-term R&D)*
-Reinventing silver halide photography as a 21st-century authentication technology. Quantum photon absorption and statistical fluctuations in chemical development generate physically unclonable fingerprints readable by a smartphone camera.
+### 🔬 Next-Generation Physical Authentication *(Long-term R&D)*
+Reimagining physical authentication for the 21st century. We are developing a new class of optical authentication technology readable by a smartphone camera.
 
-*Status: Proof-of-concept stage. Patent preparation in progress. Open to academic collaborations.*
+*Status: Proof-of-concept stage. Patent preparation in progress. Specific technical details will be disclosed progressively as filings complete. Open to academic collaborations.*
 
 ---
 
@@ -33,19 +33,14 @@ Reinventing silver halide photography as a 21st-century authentication technolog
 
 **小原 拓朗 / Takuro Ohara**
 Representative Director, RePUF Co., Ltd.
-Chief Priest, Shojoji Temple (Rinzai-Myoshinji branch)
+Chief Priest, Shojoji (正定寺) Temple, Rinzai-Myoshinji branch
 Saiki Kakujo High School, Class of 2004 (56th graduating class)
 
 ---
 
 ## Academic Collaborations
 
-We actively seek academic research partners in:
-
-- **Physical Unclonable Functions** — optical PUFs, authentication protocols, statistical security analysis
-- **Statistical physics** — silver halide emulsion, grain formation under push processing
-- **Computational imaging** — feature extraction, entropy evaluation, robustness under capture variation
-- **Cryptographic analysis** — modeling attacks, fuzzy extractors, information-theoretic bounds
+We actively seek academic research partners in the broad areas of physical authentication, imaging systems, and cryptographic analysis.
 
 If you are interested in exploring a collaboration, please reach out via the email above.
 
